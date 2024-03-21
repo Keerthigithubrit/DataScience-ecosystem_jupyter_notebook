@@ -1,1 +1,1 @@
-# DataScience-ecosystem_jupyter_notebook
+# DataScience Ecosystem_jupyter_notebook
